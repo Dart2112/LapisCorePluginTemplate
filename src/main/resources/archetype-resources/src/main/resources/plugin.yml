@@ -1,0 +1,4 @@
+name: ${artifactId}
+version: ${version}
+author: Dart2112
+main: ${package}.${artifactId}

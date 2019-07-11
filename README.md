@@ -1,4 +1,4 @@
-#LapisCore Plugin Template
+# LapisCore Plugin Template
 
 This is a maven template that I use to make LapisCore based plugins
 

@@ -12,9 +12,6 @@
         <requiredProperty key="package">
             <defaultValue>${groupId}.${artifactId.toLowerCase()}</defaultValue>
         </requiredProperty>
-        <requiredProperty key="version">
-            <defaultValue>0.1.0</defaultValue>
-        </requiredProperty>
     </requiredProperties>
     <fileSets>
         <fileSet filtered="true" packaged="true" encoding="UTF-8">

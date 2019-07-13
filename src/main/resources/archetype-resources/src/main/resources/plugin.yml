@@ -1,4 +1,4 @@
 name: ${artifactId}
-version: ${version}
+version: ${project.version}
 author: Dart2112
 main: ${package}.${artifactId}
